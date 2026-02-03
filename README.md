@@ -1,4 +1,4 @@
-# Spotify Songs **Health Impact** Analysis 🎧🧠  
+# Spotify Songs **Health Impact** Analysis
 
 This repository contains a two–part project that combines Spotify audio features with the MxMH mental-health survey to label each track’s potential effect on a listener as **Calming · Neutral · Anxious**:
 
@@ -16,9 +16,9 @@ This repository contains a two–part project that combines Spotify audio featur
 
 ├── mxmh_survey_results.csv # MxMH mental-health survey
 
-├── SpotifyRuhAnalizi.ipynb # 🔑 Main notebook – analysis & modeling
+├── SpotifyRuhAnalizi.ipynb #  Main notebook – analysis & modeling
 
-├── uygulama.py # 🌐 Streamlit interface
+├── uygulama.py #  Streamlit interface
 
 ├── requirements.txt # Python dependencies
 
